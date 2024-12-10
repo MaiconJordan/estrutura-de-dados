@@ -7,6 +7,8 @@ public class Teste {
 
         Vetor vetor = new Vetor(5);
 
+        vetor.equals(vetor);
+
         int i = 5;
         i++;
 
